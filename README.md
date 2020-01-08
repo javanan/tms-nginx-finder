@@ -1,3 +1,9 @@
+
+阿里云的活动还在继续，89元一年的服务器还可以买， 另外可以买mysql和oss， 多了这两个，完成可以做一个中小型网站应用了。价格也是在100 以内。docker,nginx 都可以买一个 ecs 搭建
+
+https://www.aliyun.com/minisite/goods?userCode=vf2b5zld&share_source=copy_link
+
+
 > 习惯上只是简单把 Nginx 用作 WebServer，最近看了看它的插件，发现其实有很多玩法，特别是很多工作可以不再需要写代码了，通过安装配置插件就可以实现。本文以搭建一个文档服务器为例，演示一下怎样使用 Nginx 插件。
 
 # 项目概述
