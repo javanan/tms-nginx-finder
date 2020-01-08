@@ -10,7 +10,7 @@ https://www.aliyun.com/minisite/goods?userCode=vf2b5zld&share_source=copy_link
 
 本项目尝试用Nginx的多个模块搭建一个文档服务器，实现文件的上传和浏览。纯粹用Nginx实现是想讲文件上传作为一个独立的基础模块，如果其他业务模块需要文件管理功能，可以直接使用。
 
-项目地址：https://github.com/jasony62/tms-nginx-finder
+项目地址：https://github.com/javanan/tms-nginx-finder/
 
 # 安装插件
 
